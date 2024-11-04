@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/praveen2053/React/static/css/main.15100a8d.css",
+    "main.js": "/praveen2053/React/static/js/main.703708aa.js",
+    "static/js/453.fc89fcfa.chunk.js": "/praveen2053/React/static/js/453.fc89fcfa.chunk.js",
+    "index.html": "/praveen2053/React/index.html",
+    "main.15100a8d.css.map": "/praveen2053/React/static/css/main.15100a8d.css.map",
+    "main.703708aa.js.map": "/praveen2053/React/static/js/main.703708aa.js.map",
+    "453.fc89fcfa.chunk.js.map": "/praveen2053/React/static/js/453.fc89fcfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15100a8d.css",
+    "static/js/main.703708aa.js"
+  ]
+}
