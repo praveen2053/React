@@ -18,7 +18,7 @@ function SignUp() {
             {/* <input type="checkbox"/> */}
         </form>
         <button>SignUp</button>
-        <p>Have an account <Link to = '/'>Login</Link></p>
+        <p>Have an account <Link to = '/React'>Login</Link></p>
     </div>
     </>
   )
